@@ -1,10 +1,10 @@
 # Hi 👋 I'm Thomas
 
 **Fullstack Developer · 🇩🇪 → 🇨🇭**
-10+ years delivering production software in agile teams
+* 10+ years delivering production software in agile teams
 
-**Backend:** Java (Spring Boot / Open Liberty) · Go
-**Frontend:** Angular · TypeScript
+* **Backend:** Java (Spring Boot / Open Liberty) · Go
+* **Frontend:** Angular · TypeScript
 
 ---
 
