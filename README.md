@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Fullstack Developer from Germany working in Switzerland</h3>
 
 - 📫 How to reach me **thomas.rothenbacher@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
