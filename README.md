@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">
-Senior Fullstack Developer · Java & Angular · 🇩🇪 → 🇨🇭
+  Fullstack Developer · Java & Angular · 🇩🇪 → 🇨🇭
 </h3>
 
 <p align="center">
