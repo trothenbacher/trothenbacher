@@ -2,7 +2,6 @@
 
 **Fullstack Developer · 🇩🇪 → 🇨🇭**
 * 10+ years delivering production software in agile teams
-
 * **Backend:** Java (Spring Boot / Open Liberty) · Go
 * **Frontend:** Angular · TypeScript
 
