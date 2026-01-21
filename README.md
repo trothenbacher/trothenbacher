@@ -1,19 +1,23 @@
 # Hi 👋 I'm Thomas
 
-Fullstack Developer · 🇩🇪 → 🇨🇭
-* 10+ years building production software in agile teams
-* Backend: **Java (Spring Boot / Open Liberty)**
-* Frontend: **Angular** · **TypeScript**
-* Also using **Go** for lean, focused services
+**Fullstack Developer · 🇩🇪 → 🇨🇭**
+10+ years delivering production software in agile teams
+
+**Backend:** Java (Spring Boot / Open Liberty) · Go
+**Frontend:** Angular · TypeScript
 
 ---
 
-### Skills & Focus
+### What I Bring
 
-* Clean, maintainable architectures
-* Pragmatic engineering over hype
-* Onboarding, mentoring and guiding juniors, interns and apprentices
-* Knowledge sharing, code reviews & pair programming
-* Working in agile environments (Scrum / SAFe)
+* **Clean, maintainable architectures** – I build software that lasts, not just works.
+* **Pragmatic engineering** – solving real problems over chasing buzzwords.
+* **Mentorship & team growth** – onboarding, guiding juniors, interns, apprentices.
+* **Collaboration & code quality** – pair programming, code reviews, knowledge sharing.
+* **Agile expertise** – experienced in Scrum & SAFe environments.
+
+---
 
 📫 **[thomas.rothenbacher@gmail.com](mailto:thomas.rothenbacher@gmail.com)**
+
+💡 Fun fact: I enjoy building lean, focused services in Go when I need speed and simplicity—while still keeping the fullstack perspective.
