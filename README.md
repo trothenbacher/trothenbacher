@@ -40,9 +40,7 @@ Currently focused on <b>Java EE (Open Liberty)</b> and <b>Angular</b>.
   Strong background in modern Spring ecosystems, RESTful services and integration-heavy systems
 
 - **Go (Golang)**  
-  Used for **simple, focused CRUD services** where minimalism matters  
-  – leveraging Go’s **strong standard library** and keeping services lean  
-  – intentionally avoiding unnecessary 3rd-party dependencies
+  Used for **simple, focused CRUD services** where minimalism matters
 
 - **Databases**  
   PostgreSQL, MySQL, Oracle  
