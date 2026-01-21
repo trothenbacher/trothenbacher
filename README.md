@@ -19,4 +19,4 @@
 
 📫 **[thomas.rothenbacher@gmail.com](mailto:thomas.rothenbacher@gmail.com)**
 
-💡 Fun fact: I enjoy building lean, focused services in Go when I need speed and simplicity—while still keeping the fullstack perspective.
+💡 Fun fact: I enjoy building lean, focused services in Go when I need speed and simplicity.
