@@ -12,7 +12,7 @@ Currently focused on <b>Java EE (Open Liberty)</b> and <b>Angular</b>.
 
 ### 🚀 About Me
 
-- 💼 Senior Fullstack Developer based in Switzerland  
+- 💼 Fullstack Developer based in Switzerland  
 - 🧠 10+ years of professional experience in agile teams (Scrum / SAFe)
 - ☕ Strong backend focus with **Java EE / Open Liberty**
 - 🅰️ Frontend enthusiast with **Angular**
@@ -32,10 +32,21 @@ Currently focused on <b>Java EE (Open Liberty)</b> and <b>Angular</b>.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
 </p>
 
-- Java EE (Open Liberty)
-- Spring Boot
-- REST APIs, Microservices
-- SQL (PostgreSQL, MySQL, Oracle)
+- **Java EE (Open Liberty)**  
+  Building robust, scalable backend systems in enterprise environments  
+  (REST APIs, security, transactions, Microservices)
+
+- **Spring Boot**  
+  Strong background in modern Spring ecosystems, RESTful services and integration-heavy systems
+
+- **Go (Golang)**  
+  Used for **simple, focused CRUD services** where minimalism matters  
+  – leveraging Go’s **strong standard library** and keeping services lean  
+  – intentionally avoiding unnecessary 3rd-party dependencies
+
+- **Databases**  
+  PostgreSQL, MySQL, Oracle  
+
 
 #### Frontend
 <p>
